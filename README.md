@@ -14,7 +14,22 @@ This full-stack project provides an end-to-end solution for predicting early-sta
 ---
 
 ## 📁 Project Structure
-<pre lang="markdown"> ``` 📦 project-root ├── backend/ # FastAPI backend │ ├── main.py # API endpoints │ ├── model/ # Saved model (.keras or .pt) │ └── utils/ # Preprocessing and XAI logic ├── frontend/ # React frontend │ ├── src/ │ ├── public/ │ └── package.json ├── notebooks/ │ ├── MultiheadAttentionFCN.ipynb # Deep learning training │ └── XAI.ipynb # SHAP & LIME explanations ├── images/ # UI screenshots │ ├── frontend_before.png │ └── frontend_after.png ├── README.md └── requirements.txt ``` </pre
+├── backend/        # FastAPI backend
+│   ├── main.py     # API endpoints
+│   ├── model/      # Saved model (.keras or .pt)
+│   └── utils/      # Preprocessing and XAI logic
+├── frontend/       # React frontend
+│   ├── src/
+│   ├── public/
+│   └── package.json
+├── notebooks/
+│   ├── MultiheadAttentionFCN.ipynb  # Deep learning training
+│   └── XAI.ipynb                    # SHAP & LIME explanations
+├── images/         # UI screenshots
+│   ├── frontend_before.png
+│   └── frontend_after.png
+├── README.md
+└── requirements.txt
 
 ---
 
