@@ -1,4 +1,4 @@
 # EarlyDiabetes
 
 
-<iframe src="https://wandb.ai/prayagpiya12-lakehead-university/Early_Diabetes_Prediciton/reports/Early-Diabetes-Prediction-System---VmlldzoxMjkwMzUwMw" style="border:none;height:1024px;width:100%">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fxKnmW0QxHQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
