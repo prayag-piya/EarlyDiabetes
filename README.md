@@ -14,6 +14,8 @@ This full-stack project provides an end-to-end solution for predicting early-sta
 ---
 
 ## 📁 Project Structure
+
+```
 ├── backend/        # FastAPI backend
 │   ├── main.py     # API endpoints
 │   ├── model/      # Saved model (.keras or .pt)
@@ -30,7 +32,7 @@ This full-stack project provides an end-to-end solution for predicting early-sta
 │   └── frontend_after.png
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## 🧰 Technologies Used
