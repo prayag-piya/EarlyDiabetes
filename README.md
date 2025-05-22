@@ -1,4 +1,4 @@
 # EarlyDiabetes
 
 
-[View the embedded content](<iframe width="560" height="315" src="https://www.youtube.com/embed/fxKnmW0QxHQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+[View the embedded content](https://api.wandb.ai/links/prayagpiya12-lakehead-university/qb2yeika)
