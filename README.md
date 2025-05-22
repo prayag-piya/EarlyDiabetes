@@ -108,9 +108,9 @@ npm start
 
 ## 📸 Screenshots
 ### 🖼️ Before Prediction (Form Input UI)
-![Frontend Before Prediction](images/frontend_before.png)
+![Frontend Before Prediction](images/Frontend.png)
 
 ### ✅ After Prediction (Results & Explanation)
-![Frontend After Prediction](images/frontend_after.png)
+![Frontend After Prediction](images/final.jpg)
 
 [Traning and testing reports](https://api.wandb.ai/links/prayagpiya12-lakehead-university/qb2yeika)
