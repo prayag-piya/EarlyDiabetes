@@ -3,7 +3,6 @@
 This full-stack project provides an end-to-end solution for predicting early-stage diabetes using a deep learning model integrated with explainable AI (XAI). It features a machine learning backend built with FastAPI, a React-based frontend, and visual explanations powered by SHAP and LIME.
 
 ---
-
 ## 🎯 Project Objectives
 
 - Predict early-stage diabetes using structured medical data and symptom-based questionnaires.
